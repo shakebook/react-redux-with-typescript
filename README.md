@@ -1,6 +1,6 @@
 # 大型项目架构： TypeScript+React+Redux 案例
 
-使用TypeScript开发大型react项目，Redux案例
+使用TypeScript强类型语言开发大型react项目，Redux案例
 
 
 ### 运行： `npm start`
